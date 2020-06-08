@@ -1,0 +1,6 @@
+export{ default as Dashboard } from './Dashboard' 
+export{ default as Users } from './Users'
+export{ default as Members } from './Members' 
+export{ default as Territories } from './Territories' 
+export{ default as Reports } from './Reports' 
+export{ default as Profile } from './Profile'  

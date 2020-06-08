@@ -1,0 +1,58 @@
+{
+  "name": "client",
+  "homepage": "https://portal.zciea.trade",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@sweetalert/with-react": "^0.1.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
+    "classnames": "^2.2.6",
+    "eslint-loader": "^2.1.2",
+    "google-libphonenumber": "^3.2.9",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^2.2.0",
+    "print-job": "^2.1.2",
+    "react": "^16.13.1",
+    "react-chartjs-2": "^2.9.0",
+    "react-csv": "^2.0.3",
+    "react-dom": "^16.13.1",
+    "react-fontawesome": "^1.7.1",
+    "react-html-table-to-excel": "^2.0.0",
+    "react-paginate": "^6.3.2",
+    "react-phone-number-input": "^3.0.22",
+    "react-push-notification": "^1.3.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-toastify": "^5.5.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "sweetalert": "^2.1.2",
+    "sweetalert2-react": "^0.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

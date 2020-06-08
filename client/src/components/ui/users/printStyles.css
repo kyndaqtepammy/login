@@ -1,0 +1,6 @@
+@media print {
+    @page {
+      size: 8.4in 5.6in;  
+      size: portrait;
+    }
+}
