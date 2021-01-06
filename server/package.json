@@ -9,7 +9,7 @@
   "author": "Pamela Sillah",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.16.0",
     "cors": "^2.8.5",
     "express": "^4.14.0",
